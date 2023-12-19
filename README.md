@@ -6,4 +6,4 @@
         <li>Python basics</li>
     </ul>
 </div>
-User can choose password's length and elements.
+<p>User can choose password's <b>length</b> and <b>elements</b>.</p>
