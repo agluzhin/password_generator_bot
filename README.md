@@ -1,3 +1,3 @@
 # password_generator_bot
-Coding a bot by using the "pyTelegramBotAPI" library. 
+Coding a bot for generating castom password by using the "pyTelegramBotAPI" library. 
 User can choose password's length and elements.
