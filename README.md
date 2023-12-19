@@ -1,6 +1,6 @@
-# password_generator
+# password_generator_bot
 <div>
-    <p>Coding a bot for generating castom password by using:</p>
+    <p>Coding a bot for <b>generating castom password</b> by using:</p>
     <ul>
         <li>Library "pyTelegramBotAPI"</li>
         <li>Python basics</li>
