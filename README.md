@@ -1,4 +1,3 @@
-# password_generator_bot
 <div>
     <p>Coding a bot for <b>generating castom password</b> by using:</p>
     <ul>
